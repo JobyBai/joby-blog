@@ -1,2 +1,2 @@
-# joby_blog
+# joby-blog
 Joby's personal blog
